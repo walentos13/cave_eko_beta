@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.28.229.192
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642613806106
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642613877603
+  login: 1642609201118
+money: '586.772299999996301704'
+last-account-name: Krydexus
+lastlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 684.5908182595437
+  y: 74.0
+  z: 437.04726700021837
+  yaw: 25.17829132080078
+  pitch: 57.900020599365234
+logoutlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 668.6885422070392
+  y: 74.0
+  z: 425.09254616894975
+  yaw: 140.65696716308594
+  pitch: 15.600021362304688
+homes:
+  baza:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: 129.30000001192093
+    y: 72.0
+    z: -144.69999998807907
+    yaw: 29.04836654663086
+    pitch: 29.700450897216797
+  bazaa:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: 672.4033346396126
+    y: 95.0
+    z: 434.33545510678226
+    yaw: 94.15673828125
+    pitch: 26.249942779541016
+  piasek:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: 2060.3487853764314
+    y: 67.0
+    z: 1234.5336677805103
+    yaw: -93.93862915039062
+    pitch: 8.54999828338623

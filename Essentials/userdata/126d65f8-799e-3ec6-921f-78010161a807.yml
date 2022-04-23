@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.173.137.230
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642099056236
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642099129298
+  login: 1642098753693
+money: '223.501699999999973772'
+last-account-name: Zawista
+lastlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 509.7251508405719
+  y: 73.0
+  z: 506.1427047593921
+  yaw: -34.336883544921875
+  pitch: 31.5
+logoutlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 58.03218289994784
+  y: 70.0
+  z: 80.08683541837591
+  yaw: -72.94363403320312
+  pitch: 32.70085525512695

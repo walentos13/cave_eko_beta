@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.184.78.3
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642692352709
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642692603244
+  login: 1642690917135
+money: '208.378200000000054034'
+last-account-name: Broda3000
+lastlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 440.7656040538438
+  y: 64.0
+  z: 304.98736695793605
+  yaw: 49.45709228515625
+  pitch: 21.356901168823242
+logoutlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 49.890883749620976
+  y: 70.0
+  z: 84.15266908352325
+  yaw: 20.8345947265625
+  pitch: 18.651954650878906
+homes:
+  lasiu:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: 495.444917119492
+    y: 64.0
+    z: 364.5665718807364
+    yaw: 83.42527770996094
+    pitch: 7.565506458282471
+  brodahouse:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: 375.55531220893334
+    y: 64.0
+    z: 253.77406372471685
+    yaw: -4.5711669921875
+    pitch: 20.849990844726562
+  trujz_b:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: 499.30000001192093
+    y: -38.0
+    z: 303.354224965396
+    yaw: -179.66058349609375
+    pitch: 10.457974433898926

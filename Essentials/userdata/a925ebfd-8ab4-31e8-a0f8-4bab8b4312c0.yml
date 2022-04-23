@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 193.17.174.64
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642451289338
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642535301075
+  login: 1642535204425
+money: '2016.254882500000170866'
+last-account-name: Raski_69
+lastlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: -438.5128013684367
+  y: 77.0
+  z: -1033.300000011921
+  yaw: -171.33824157714844
+  pitch: 16.349105834960938
+logoutlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 101.87566170832551
+  y: 70.0
+  z: 123.94354309022381
+  yaw: -110.12069702148438
+  pitch: -7.500457763671875
+homes:
+  expi:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: -400.81756335930146
+    y: 129.0
+    z: -546.3458676406375
+    yaw: -41.2620849609375
+    pitch: 45.00022506713867
+  dom:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: -6900.082878947282
+    y: 80.0
+    z: -8491.046415400357
+    yaw: 90.732666015625
+    pitch: 24.2993221282959
+  baza:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: -444.9264659573983
+    y: 77.0
+    z: -1039.7369502141678
+    yaw: 96.27264404296875
+    pitch: 39.14939880371094

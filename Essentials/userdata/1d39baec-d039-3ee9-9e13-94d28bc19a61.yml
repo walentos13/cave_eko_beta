@@ -1,0 +1,71 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.72.119.141
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642618601132
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642620624094
+  login: 1642615514298
+money: '463.6071250000007459226'
+last-account-name: JordanDominacja
+lastlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: -449.5
+  y: -53.4375
+  z: -1106.5
+  yaw: 37.85618591308594
+  pitch: 2.1000001430511475
+logoutlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 199.8986742926071
+  y: 70.0
+  z: -209.37575818185647
+  yaw: -61.1328125
+  pitch: -16.200407028198242
+homes:
+  magazyn:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: -379.9672152931364
+    y: 67.0
+    z: -1217.5142310715153
+    yaw: -72.75799560546875
+    pitch: 18.448999404907227
+  expiarka:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: -400.98023508880607
+    y: 129.0
+    z: -547.1197291896614
+    yaw: 171.38059997558594
+    pitch: 29.249656677246094
+  ebeebe:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: 158.38874386848758
+    y: 69.0
+    z: -195.02998509427331
+    yaw: 130.9344940185547
+    pitch: 17.251144409179688
+  beacon:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: 159.6029123580978
+    y: 27.0
+    z: -218.69999998807907
+    yaw: -136.19964599609375
+    pitch: 7.349636554718018

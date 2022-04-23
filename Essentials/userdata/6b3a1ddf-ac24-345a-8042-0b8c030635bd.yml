@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.8.1.21
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643466631687
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643466671582
+  login: 1643466626477
+  kits:
+    color: 1642708645218
+money: '19618.487250000000008216'
+last-account-name: Zebrek
+lastlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 649.5
+  y: 237.0
+  z: 110.5
+  yaw: 138.57579040527344
+  pitch: 15.150102615356445
+logoutlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: -4145.002297824081
+  y: 101.93664621240262
+  z: 219.19727610575487
+  yaw: 163.28530883789062
+  pitch: 18.449167251586914

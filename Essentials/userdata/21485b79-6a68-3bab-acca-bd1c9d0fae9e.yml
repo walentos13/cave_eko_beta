@@ -1,0 +1,95 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.8.1.21
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643467014343
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643467808075
+  login: 1643467186071
+money: '14331.591517500001637771'
+last-account-name: Walentos13
+lastlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 657.5888401905453
+  y: 114.5
+  z: 84.56613233417657
+  yaw: 153.7255401611328
+  pitch: 25.50030517578125
+logoutlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: -4124.97812595438
+  y: 79.0
+  z: 225.71477407896305
+  yaw: 80.63278198242188
+  pitch: 11.100038528442383
+homes:
+  jaskinia:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: 61.90657066951637
+    y: -42.0
+    z: -182.88865896732815
+    yaw: -172.52012634277344
+    pitch: 26.100709915161133
+  home:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: 463.57602019308655
+    y: 64.0
+    z: 59.98444148249349
+    yaw: 168.27227783203125
+    pitch: 20.549535751342773
+  obs:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: 46.72974079734581
+    y: -54.0
+    z: -691.5978783760335
+    yaw: 77.9609375
+    pitch: 2.100428819656372
+  las:
+    world: b5ae07b0-0c68-4e7f-9f1c-ca67ffb4cdab
+    world-name: world_nether
+    x: -125.43752588068696
+    y: 52.0
+    z: 50.660502521116626
+    yaw: 88.19577026367188
+    pitch: 17.999767303466797
+  twierdza:
+    world: b5ae07b0-0c68-4e7f-9f1c-ca67ffb4cdab
+    world-name: world_nether
+    x: 698.3000000119209
+    y: 67.0
+    z: 2.300000011920929
+    yaw: -92.78306579589844
+    pitch: 38.399681091308594
+  lod:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: -2967.930007784869
+    y: 63.0
+    z: -4956.605757513871
+    yaw: -146.24671936035156
+    pitch: 2.549879789352417
+  netherite:
+    world: b5ae07b0-0c68-4e7f-9f1c-ca67ffb4cdab
+    world-name: world_nether
+    x: 417.2462548782204
+    y: 14.0
+    z: -152.52628845249305
+    yaw: 8.880354881286621
+    pitch: 16.500215530395508

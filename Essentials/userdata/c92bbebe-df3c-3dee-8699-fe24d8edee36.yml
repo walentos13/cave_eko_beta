@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 193.17.174.64
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642451300941
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642451618941
+  login: 1642449258868
+money: '0'
+last-account-name: rprzemek34
+lastlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: -446.69999998807907
+  y: 77.0
+  z: -1033.300000011921
+  yaw: -122.73454284667969
+  pitch: 13.949298858642578
+logoutlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 66.17965483466996
+  y: 74.0
+  z: 102.3677423592935
+  yaw: -37.99456787109375
+  pitch: 9.30002498626709

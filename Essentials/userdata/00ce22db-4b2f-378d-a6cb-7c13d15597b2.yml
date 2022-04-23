@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.221.149.46
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1641903033518
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1641904019820
+  login: 1641902008406
+money: '1158.991174999999974295'
+last-account-name: Rojek_
+lastlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: -180.89656611528594
+  y: 81.0
+  z: 367.69999998807907
+  yaw: -9.6077880859375
+  pitch: 25.499256134033203
+logoutlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: -233.565250227117
+  y: 64.0
+  z: 602.754705092409
+  yaw: -6.38287353515625
+  pitch: 30.59967803955078

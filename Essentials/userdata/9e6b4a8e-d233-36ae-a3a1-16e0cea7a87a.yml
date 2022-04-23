@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.231.24.207
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642354179148
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642354550269
+  login: 1642353141442
+money: '3470.262342499987819283'
+last-account-name: MBek
+lastlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: -5026.266274721878
+  y: 69.0
+  z: 1975.98039865046
+  yaw: 169.00921630859375
+  pitch: 16.649789810180664
+logoutlocation:
+  world: b5ae07b0-0c68-4e7f-9f1c-ca67ffb4cdab
+  world-name: world_nether
+  x: 412.4912401865648
+  y: 21.0
+  z: 2084.699999988079
+  yaw: 0.532745361328125
+  pitch: 63.55803680419922
+homes:
+  farma:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: -1437.5570175711969
+    y: 64.0
+    z: -2052.0647665852202
+    yaw: -91.53076171875
+    pitch: -1.5002706050872803
+  pog:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: -5000.53656879122
+    y: 68.0
+    z: 2000.5621343537825
+    yaw: -178.83743286132812
+    pitch: 7.949803829193115
+  totem:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: -6862.539077964592
+    y: 210.0
+    z: 346.4487904053846
+    yaw: -1.2494688034057617
+    pitch: -3.0002975463867188

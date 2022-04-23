@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.72.119.141
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1641752196898
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1641753661254
+  login: 1641753528110
+money: '3.51122500000000277'
+last-account-name: Sebix3
+lastlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 82.87774793125526
+  y: 70.0
+  z: 137.54848071024423
+  yaw: 98.4589614868164
+  pitch: 10.35053825378418
+homes:
+  itemy:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: -44.754253597016806
+    y: 54.0
+    z: 98.5216630188042
+    yaw: 161.52294921875
+    pitch: 28.799522399902344
+logoutlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 65.74741304326017
+  y: 68.0
+  z: 70.49829710887668
+  yaw: 85.89004516601562
+  pitch: 34.80061721801758

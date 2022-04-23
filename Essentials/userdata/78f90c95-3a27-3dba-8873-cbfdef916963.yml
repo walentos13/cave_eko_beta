@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.21.29.51
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1640987916782
+  login: 1640987899567
+money: '0'
+last-account-name: Makofsky_
+lastlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 67.5
+  y: 140.0
+  z: 95.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 117.58432304140042
+  y: 69.0
+  z: 237.00560618121628
+  yaw: -72.788330078125
+  pitch: 83.85095977783203

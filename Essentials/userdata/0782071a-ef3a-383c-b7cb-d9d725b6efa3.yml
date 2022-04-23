@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 31.135.23.181
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642327996327
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642332627412
+  login: 1642322683657
+money: '138.07487500000001215'
+last-account-name: matimal
+lastlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 682.2713624539459
+  y: 74.0
+  z: 441.1147706946206
+  yaw: -142.2437744140625
+  pitch: 57.59993362426758
+logoutlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 51.34729832872818
+  y: 64.0
+  z: 47.816846860091076
+  yaw: 153.10549926757812
+  pitch: 23.999975204467773

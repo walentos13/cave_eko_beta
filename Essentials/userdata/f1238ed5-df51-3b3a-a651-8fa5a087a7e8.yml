@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 31.61.172.109
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642438724799
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642438858494
+  login: 1642437324097
+money: '0'
+last-account-name: ryjjestok
+lastlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 318.92500001192093
+  y: 64.0
+  z: 539.9313734225931
+  yaw: -80.628173828125
+  pitch: 3.149970769882202
+logoutlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 48.16975084284802
+  y: 70.0
+  z: 85.43393676885555
+  yaw: 99.25531005859375
+  pitch: 12.600014686584473

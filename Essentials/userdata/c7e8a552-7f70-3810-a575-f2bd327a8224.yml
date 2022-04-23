@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 87.207.26.224
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642106560497
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642106602097
+  login: 1642105648337
+money: '3018.835269999999906779'
+last-account-name: Verin359
+lastlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 57.27465088042592
+  y: 70.0
+  z: 78.05278069488357
+  yaw: -161.4976806640625
+  pitch: 28.343610763549805
+logoutlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 535.3032588265733
+  y: 72.0
+  z: 579.3984451562616
+  yaw: -169.5441131591797
+  pitch: 4.025608539581299
+homes:
+  baza:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: 534.3218497073265
+    y: 72.0
+    z: 568.808905468458
+    yaw: -174.94091796875
+    pitch: 47.675575256347656
+  ghas:
+    world: b5ae07b0-0c68-4e7f-9f1c-ca67ffb4cdab
+    world-name: world_nether
+    x: 364.173669684154
+    y: 76.0
+    z: 154.50026008483297
+    yaw: -50.90875244140625
+    pitch: 22.949737548828125
+  net:
+    world: b5ae07b0-0c68-4e7f-9f1c-ca67ffb4cdab
+    world-name: world_nether
+    x: 555.6096721757456
+    y: 38.0
+    z: 519.522269454694
+    yaw: 1.825958251953125
+    pitch: 9.300128936767578

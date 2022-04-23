@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.87.142.112
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642510235938
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642511293637
+  login: 1642506745771
+money: '2430.163095000000034234'
+last-account-name: gacek_007
+lastlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 290.9897670047468
+  y: 65.875
+  z: 537.6405926682586
+  yaw: 169.17970275878906
+  pitch: 37.95016860961914
+logoutlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: -97.2617247602022
+  y: -51.0
+  z: -71.04413129766326
+  yaw: 93.8963623046875
+  pitch: 12.90025806427002
+homes:
+  home:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: 285.30120813765274
+    y: 67.0
+    z: 533.6975733737094
+    yaw: 170.0743408203125
+    pitch: 38.100406646728516

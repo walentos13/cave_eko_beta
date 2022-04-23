@@ -1,0 +1,71 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.173.58.72
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642685698768
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642687891193
+  login: 1642685152771
+money: '38.437304999999937303'
+last-account-name: MlodyNaku
+lastlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 266.4973607565013
+  y: 71.5
+  z: 151.76577022171912
+  yaw: -172.91720581054688
+  pitch: 26.9139404296875
+logoutlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 190.30000001192093
+  y: 175.5
+  z: 196.47925742943718
+  yaw: 32.885650634765625
+  pitch: -8.583544731140137
+homes:
+  dom:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: 270.20951722891317
+    y: 74.0
+    z: 179.7841959916765
+    yaw: 38.10107421875
+    pitch: 10.450162887573242
+  wieski:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: 265.39635620813425
+    y: 40.0
+    z: 156.7008397976344
+    yaw: 116.732421875
+    pitch: 12.098831176757812
+  pustynia:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: -1301.5159643637678
+    y: 65.0
+    z: 755.8085628943799
+    yaw: -53.06040573120117
+    pitch: 32.49971008300781
+  topielce:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: 499.67921582605595
+    y: -38.0
+    z: 303.3885171318357
+    yaw: 178.3519744873047
+    pitch: 16.49565315246582

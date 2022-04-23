@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 95.90.250.174
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642186186340
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642186339487
+  login: 1642185932557
+money: '14431.006754999994997250'
+last-account-name: Gulcze16
+lastlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: -1613.221384254169
+  y: 69.0
+  z: -1317.1351326557487
+  yaw: 37.476165771484375
+  pitch: 24.785751342773438
+logoutlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 56.93996861338859
+  y: 71.0
+  z: 89.550668834422
+  yaw: 55.450439453125
+  pitch: 13.946868896484375
+homes:
+  bimbrownia:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: -383.5564698203196
+    y: 57.0
+    z: -136.8762043401881
+    yaw: -36.4375
+    pitch: 23.643783569335938
+  exp:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: 97.32464569189956
+    y: -30.0
+    z: 420.8391444402736
+    yaw: -153.332275390625
+    pitch: 21.570405960083008
+  pis:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: -1470.2766954240844
+    y: 61.0
+    z: -1294.5603957145806
+    yaw: -85.98004150390625
+    pitch: 24.161020278930664

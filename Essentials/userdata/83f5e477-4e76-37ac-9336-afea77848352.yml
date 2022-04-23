@@ -1,0 +1,87 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 31.60.135.241
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1643730543368
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1644236871689
+  login: 1644233102492
+money: '3518.545302499997928849'
+last-account-name: LasiuOnline
+lastlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 498.01249998807907
+  y: 60.49390748022948
+  z: 384.5262375976339
+  yaw: -23.58349609375
+  pitch: 7.95026159286499
+homes:
+  paj_ki:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: 437.9393185995646
+    y: -45.0
+    z: 190.69999998807907
+    yaw: 17.045867919921875
+    pitch: 22.79885482788086
+  dom:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: 492.0868472907145
+    y: 64.0
+    z: 363.28202095483135
+    yaw: -162.16787719726562
+    pitch: 10.950216293334961
+  totemy:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: -6862.685989753137
+    y: 210.0
+    z: 346.18349435236155
+    yaw: -1.2494688034057617
+    pitch: -3.0002975463867188
+  piasek:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: 1249.6026151523442
+    y: 63.0
+    z: 1985.7249286496549
+    yaw: -38.36407470703125
+    pitch: 11.101053237915039
+  ocean:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: 1906.7302065066394
+    y: 63.0
+    z: -1237.5118069569348
+    yaw: 130.45474243164062
+    pitch: 65.55107116699219
+  event:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: -4128.577425686818
+    y: 79.0
+    z: 215.4901005879649
+    yaw: 89.84613037109375
+    pitch: 62.70090103149414
+logoutlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: -4143.813978769292
+  y: 79.0
+  z: 227.15926085585866
+  yaw: -2.3236083984375
+  pitch: 3.3777124881744385

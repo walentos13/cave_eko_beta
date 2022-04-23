@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.173.8.127
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1640895947573
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1641564168731
+  login: 1641564168258
+money: '203.3112499999999949'
+last-account-name: Kokosowski
+lastlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 126.69999998807907
+  y: -43.13878691167157
+  z: 75.55441925421518
+  yaw: -79.7655029296875
+  pitch: -90.0
+logoutlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 48.51196054987245
+  y: 70.0
+  z: 84.24214815338036
+  yaw: 80.39083862304688
+  pitch: 5.850692272186279
+homes:
+  amestyt:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: 234.64581242151175
+    y: 29.0
+    z: -147.15633333877173
+    yaw: 76.6806640625
+    pitch: 25.499387741088867
+  spawner:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: 389.02441418220394
+    y: -34.0
+    z: 21.3538656905844
+    yaw: 45.6456298828125
+    pitch: 33.500972747802734

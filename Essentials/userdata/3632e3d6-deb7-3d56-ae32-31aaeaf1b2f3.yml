@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 80.94.26.151
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1641669812091
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1641670115572
+  login: 1641669709295
+money: '351.966049999999983655'
+last-account-name: Niepytajonic98
+lastlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: -333.762199986878
+  y: 79.49520087700593
+  z: 562.7449358681067
+  yaw: 104.5625
+  pitch: 37.06707000732422
+logoutlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 11.284319536594149
+  y: 67.0
+  z: 91.7878550761187
+  yaw: -56.191410064697266
+  pitch: 18.353256225585938

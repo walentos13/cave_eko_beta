@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.173.106.140
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642354025945
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642354208359
+  login: 1642353129227
+money: '5131.340032499996073443'
+last-account-name: PompaWodna
+lastlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 232.05537306869982
+  y: 26.0
+  z: 126.90456305023594
+  yaw: -152.27520751953125
+  pitch: 27.84161949157715
+logoutlocation:
+  world: b5ae07b0-0c68-4e7f-9f1c-ca67ffb4cdab
+  world-name: world_nether
+  x: 25.69999998807907
+  y: 39.76636799395752
+  z: -78.40158554818656
+  yaw: -94.41557312011719
+  pitch: 20.094343185424805
+homes:
+  dom:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: -391.5
+    y: 68.0
+    z: -106.5
+    yaw: -90.8038330078125
+    pitch: 2.0444066524505615
+  expi:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: 96.5987701705061
+    y: -30.0
+    z: 414.31188429741957
+    yaw: 0.24591064453125
+    pitch: 4.171327590942383
+  yyyy:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: -1437.607667287898
+    y: 64.0
+    z: -2052.3137246234514
+    yaw: -86.74227905273438
+    pitch: 11.007074356079102

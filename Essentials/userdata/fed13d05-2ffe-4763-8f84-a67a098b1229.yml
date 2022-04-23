@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.8.247.134
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1644252252951
+  login: 1644251179808
+money: '0'
+last-account-name: Walentos13
+logoutlocation:
+  world: a0ac8e8f-705f-41fd-b4b0-e35a585cca8b
+  world-name: world
+  x: 326.54303739474415
+  y: 64.0
+  z: -40.29694652843969
+  yaw: -178.68310546875
+  pitch: -6.4502997398376465

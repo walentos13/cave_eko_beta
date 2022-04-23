@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.254.94.136
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1641755709369
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642008679147
+  login: 1642008211071
+money: '134.774062500000033972'
+last-account-name: ponczek_orginal
+lastlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: -401.7244499400082
+  y: 129.5625
+  z: -540.6827858402256
+  yaw: -31.537981033325195
+  pitch: 1.500000238418579
+logoutlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: -7785.953446764626
+  y: 79.9375
+  z: -10249.54650780818
+  yaw: 25.69116973876953
+  pitch: 10.049945831298828
+homes:
+  baza2:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: -441.98858987432715
+    y: 63.0
+    z: -1123.7868619538476
+    yaw: -161.17425537109375
+    pitch: 10.070385932922363
+  expiarka:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: -404.965313338113
+    y: 129.0
+    z: -541.1903123579295
+    yaw: 98.65902709960938
+    pitch: 45.686100006103516
+  iglo:
+    world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+    world-name: world
+    x: -7750.26098323176
+    y: 63.0
+    z: -10248.60275676243
+    yaw: -50.958953857421875
+    pitch: 9.599921226501465

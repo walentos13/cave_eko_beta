@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 31.0.53.248
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1640889088171
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1640889919267
+  login: 1640888501619
+money: '0'
+last-account-name: JankoFachowiec
+lastlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: -162.90978645195707
+  y: 64.0
+  z: 188.93473826807104
+  yaw: -151.28515625
+  pitch: 2.1644082069396973
+logoutlocation:
+  world: c9b599b0-3f69-4e1f-8185-44a5e51a84cf
+  world-name: world
+  x: 67.54158439820431
+  y: 82.0
+  z: 100.54450107960906
+  yaw: 11.82470703125
+  pitch: 12.098516464233398
