@@ -1,0 +1,8 @@
+# This is the Data file for all players' Auto Trashers.
+# Edit this manually at your own risk.
+
+Players:
+  6b3a1ddf-ac24-345a-8042-0b8c030635bd:
+    active: false
+    currentItems: []
+    amounts: []
