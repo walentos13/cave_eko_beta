@@ -1,0 +1,20 @@
+prefix: "&8[&aBeaconPlus&8]&7"
+plugin-reloaded: "{prefix} Plugin has been reloaded!"
+plugin-reload-failed: "{prefix} Failed to reload the plugin. Check the server console!"
+plugin-reload: "{prefix} Reloading plugin..."
+no-permission: "{prefix} You don't have permission to do this!"
+upgrade-success: "{prefix} You upgraded {0} to tier {1}."
+inventory-full: "{prefix} Your inventory is full!"
+economy-locale:
+  Money:
+    upgrade-not-enough-balance: "{prefix} You don't have enough Money to upgrade this. You need ${1} more. You have ${2}."
+    upgrade-success-economy: "{prefix} You upgraded {0} to tier {1} for ${2}."
+    cannot-buy: "{prefix} You can't use money to level up this upgrade!"
+  Emerald:
+    upgrade-not-enough-balance: "{prefix} You don't have enough Emerald to upgrade this. You need {1} more emerald(s). You have {2} emerald(s)."
+    upgrade-success-economy: "{prefix} You upgraded {0} to tier {1} for {2} Emerald(s)."
+    cannot-buy: "{prefix} You can't use Emerald to level up this upgrade!"
+  Experience:
+    upgrade-not-enough-balance: "{prefix} You don't have enough Experience to upgrade this. You need {1} exp more. You have {2} exp."
+    upgrade-success-economy: "{prefix} You upgraded {0} to tier {1} for {2} exp."
+    cannot-buy: "{prefix} You can't use experience to level up this upgrade!"
